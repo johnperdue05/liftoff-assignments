@@ -14,7 +14,7 @@ https://github.com/johnperdue05
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-I'm begging out of this one, as I really detest social media.  I mean, if it's required, I'll do it, but I'd really rather not.
+https://www.linkedin.com/in/john-perdue-21910615a/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
